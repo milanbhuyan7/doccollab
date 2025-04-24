@@ -1,0 +1,181 @@
+INFO 2025-04-24 09:49:23,473 autoreload 20256 24348 Watching for file changes with StatReloader
+INFO 2025-04-24 09:50:32,015 autoreload 20256 24348 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\users\views.py changed, reloading.
+INFO 2025-04-24 09:50:32,846 autoreload 18340 23164 Watching for file changes with StatReloader
+INFO 2025-04-24 09:51:44,364 autoreload 18340 23164 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\urls.py changed, reloading.
+INFO 2025-04-24 09:51:45,298 autoreload 21064 27344 Watching for file changes with StatReloader
+INFO 2025-04-24 09:52:09,301 autoreload 21064 27344 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 09:52:10,223 autoreload 24340 9880 Watching for file changes with StatReloader
+INFO 2025-04-24 10:03:40,713 autoreload 2832 26824 Watching for file changes with StatReloader
+INFO 2025-04-24 10:04:10,699 basehttp 2832 10300 "GET /api/user/me/ HTTP/1.1" 200 113
+INFO 2025-04-24 10:04:14,303 basehttp 2832 10300 "GET /api/user/me/ HTTP/1.1" 200 113
+INFO 2025-04-24 10:04:54,737 basehttp 2832 10300 "POST /api/login/ HTTP/1.1" 200 604
+INFO 2025-04-24 10:07:04,497 basehttp 2832 10300 "POST /api/signup/ HTTP/1.1" 201 357
+INFO 2025-04-24 10:07:15,587 basehttp 2832 10300 "POST /api/login/ HTTP/1.1" 200 600
+INFO 2025-04-24 10:08:12,010 basehttp 2832 10300 "POST /api/login/ HTTP/1.1" 200 600
+INFO 2025-04-24 10:08:59,311 basehttp 2832 10300 "GET /api/user/me/ HTTP/1.1" 200 109
+INFO 2025-04-24 10:09:42,909 basehttp 2832 10300 "POST /api/login/ HTTP/1.1" 200 600
+INFO 2025-04-24 10:12:49,682 basehttp 2832 10300 "GET /api/user/me/ HTTP/1.1" 200 109
+INFO 2025-04-24 10:12:51,832 basehttp 2832 10300 "GET /api/user/me/ HTTP/1.1" 200 109
+INFO 2025-04-24 10:13:25,345 basehttp 2832 10300 "POST /api/login/ HTTP/1.1" 200 600
+WARNING 2025-04-24 10:14:04,876 log 2832 16192 Not Found: /ws/document/
+WARNING 2025-04-24 10:14:04,881 basehttp 2832 16192 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:14:04,881 basehttp 2832 10300 "GET /api/user/me/ HTTP/1.1" 200 109
+WARNING 2025-04-24 10:14:04,923 log 2832 25612 Not Found: /ws/document/
+WARNING 2025-04-24 10:14:04,928 basehttp 2832 25612 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:14:04,930 basehttp 2832 25612 - Broken pipe from ('127.0.0.1', 60864)
+INFO 2025-04-24 10:14:04,938 basehttp 2832 10300 "GET /api/workspace/ HTTP/1.1" 200 15
+WARNING 2025-04-24 10:14:14,877 log 2832 29860 Not Found: /ws/document/
+WARNING 2025-04-24 10:14:14,877 basehttp 2832 29860 "GET /ws/document/ HTTP/1.1" 404 2508
+WARNING 2025-04-24 10:14:14,899 log 2832 10100 Not Found: /ws/document/
+WARNING 2025-04-24 10:14:14,900 basehttp 2832 10100 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:14:15,060 basehttp 2832 10300 "GET /api/workspace/ HTTP/1.1" 200 15
+INFO 2025-04-24 10:14:15,065 basehttp 2832 10300 "GET /api/workspace/ HTTP/1.1" 200 15
+INFO 2025-04-24 10:14:26,979 basehttp 2832 10300 "OPTIONS /api/invite-member/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:14:26,999 basehttp 2832 10300 "POST /api/invite-member/ HTTP/1.1" 201 172
+INFO 2025-04-24 10:16:07,587 basehttp 2832 10300 "POST /api/scrape-website/ HTTP/1.1" 200 649
+INFO 2025-04-24 10:16:13,779 basehttp 2832 10300 "OPTIONS /api/content/d3620593-9645-4b32-8d86-babcd7d79016/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:13,790 basehttp 2832 10300 "GET /api/content/d3620593-9645-4b32-8d86-babcd7d79016/ HTTP/1.1" 200 1519
+INFO 2025-04-24 10:16:24,003 basehttp 2832 10300 "OPTIONS /api/content/44a185f3-ac60-43d7-b4cd-3873c1d29278/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:24,010 basehttp 2832 10300 "GET /api/content/44a185f3-ac60-43d7-b4cd-3873c1d29278/ HTTP/1.1" 200 688
+INFO 2025-04-24 10:16:26,034 basehttp 2832 10300 "OPTIONS /api/content/552952a3-dc3c-4f3f-993d-b35408cf5486/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:26,040 basehttp 2832 10300 "GET /api/content/552952a3-dc3c-4f3f-993d-b35408cf5486/ HTTP/1.1" 200 801
+INFO 2025-04-24 10:16:28,012 basehttp 2832 10300 "OPTIONS /api/content/896baa05-29e5-4143-a6fa-4039f469615f/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:28,019 basehttp 2832 10300 "GET /api/content/896baa05-29e5-4143-a6fa-4039f469615f/ HTTP/1.1" 200 850
+INFO 2025-04-24 10:16:29,528 basehttp 2832 10300 "OPTIONS /api/content/2f33f3fe-a59d-41df-b676-dedadc4851bd/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:29,534 basehttp 2832 10300 "GET /api/content/2f33f3fe-a59d-41df-b676-dedadc4851bd/ HTTP/1.1" 200 6005
+INFO 2025-04-24 10:16:30,765 basehttp 2832 10300 "OPTIONS /api/content/7444a07e-acf7-496d-abeb-ad70c513e539/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:30,772 basehttp 2832 10300 "GET /api/content/7444a07e-acf7-496d-abeb-ad70c513e539/ HTTP/1.1" 200 1525
+INFO 2025-04-24 10:16:44,371 basehttp 2832 10300 "OPTIONS /api/save-content/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:16:44,382 basehttp 2832 10300 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:16:44,548 basehttp 2832 10300 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:16:44,761 basehttp 2832 10300 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:24:40,474 autoreload 2832 26824 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 10:24:41,304 autoreload 23616 8780 Watching for file changes with StatReloader
+INFO 2025-04-24 10:25:58,388 autoreload 23616 8780 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\users\views.py changed, reloading.
+INFO 2025-04-24 10:25:59,379 autoreload 14408 4004 Watching for file changes with StatReloader
+INFO 2025-04-24 10:26:08,242 autoreload 14408 4004 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\users\views.py changed, reloading.
+INFO 2025-04-24 10:26:09,002 autoreload 27796 20096 Watching for file changes with StatReloader
+WARNING 2025-04-24 10:26:59,984 log 27796 22592 Not Found: /ws/document/
+WARNING 2025-04-24 10:26:59,984 basehttp 27796 22592 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:27:00,107 basehttp 27796 29240 "GET /api/user/me/ HTTP/1.1" 200 109
+WARNING 2025-04-24 10:27:00,127 log 27796 5556 Not Found: /ws/document/
+WARNING 2025-04-24 10:27:00,129 basehttp 27796 5556 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:27:00,133 basehttp 27796 29240 "GET /api/workspace/ HTTP/1.1" 200 608
+INFO 2025-04-24 10:27:02,489 basehttp 27796 29240 "GET /api/content/d3620593-9645-4b32-8d86-babcd7d79016/ HTTP/1.1" 200 1520
+INFO 2025-04-24 10:27:14,358 basehttp 27796 29240 "POST /api/scrape-website/ HTTP/1.1" 200 755
+INFO 2025-04-24 10:27:19,671 basehttp 27796 29240 "OPTIONS /api/content/92a57849-3c25-4c78-b5e1-6c2837269572/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:19,679 basehttp 27796 29240 "GET /api/content/92a57849-3c25-4c78-b5e1-6c2837269572/ HTTP/1.1" 200 594
+INFO 2025-04-24 10:27:22,435 basehttp 27796 29240 "OPTIONS /api/content/802e6476-bcd4-4acf-a9fb-5c7ed16ec134/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:22,441 basehttp 27796 29240 "GET /api/content/802e6476-bcd4-4acf-a9fb-5c7ed16ec134/ HTTP/1.1" 200 1026
+INFO 2025-04-24 10:27:25,089 basehttp 27796 29240 "OPTIONS /api/content/adc3cd20-cba7-481e-8456-f95657f01dd6/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:25,096 basehttp 27796 29240 "GET /api/content/adc3cd20-cba7-481e-8456-f95657f01dd6/ HTTP/1.1" 200 747
+INFO 2025-04-24 10:27:26,798 basehttp 27796 29240 "OPTIONS /api/content/74e0f8ce-b166-4c43-8974-9b41989abd62/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:26,806 basehttp 27796 29240 "GET /api/content/74e0f8ce-b166-4c43-8974-9b41989abd62/ HTTP/1.1" 200 779
+INFO 2025-04-24 10:27:33,527 basehttp 27796 29240 "OPTIONS /api/content/2112eabc-420a-436d-9e11-9e398ea280ac/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:33,533 basehttp 27796 29240 "GET /api/content/2112eabc-420a-436d-9e11-9e398ea280ac/ HTTP/1.1" 200 644
+INFO 2025-04-24 10:27:35,206 basehttp 27796 29240 "OPTIONS /api/content/4c8f92d5-5144-4712-9e88-c65a85d0ff1c/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:35,211 basehttp 27796 29240 "GET /api/content/4c8f92d5-5144-4712-9e88-c65a85d0ff1c/ HTTP/1.1" 200 683
+INFO 2025-04-24 10:27:36,790 basehttp 27796 29240 "OPTIONS /api/content/4090c99f-f27b-4e08-b396-fa4af5081926/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:27:36,796 basehttp 27796 29240 "GET /api/content/4090c99f-f27b-4e08-b396-fa4af5081926/ HTTP/1.1" 200 2112
+INFO 2025-04-24 10:27:42,968 basehttp 27796 29240 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:27:43,132 basehttp 27796 29240 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:27:43,195 basehttp 27796 29240 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:37:41,456 autoreload 27796 20096 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 10:37:42,311 autoreload 8956 24380 Watching for file changes with StatReloader
+WARNING 2025-04-24 10:37:53,717 log 8956 23024 Not Found: /ws/document/
+WARNING 2025-04-24 10:37:53,717 basehttp 8956 23024 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:37:53,718 basehttp 8956 23024 - Broken pipe from ('127.0.0.1', 63036)
+INFO 2025-04-24 10:37:53,842 basehttp 8956 24344 "GET /api/user/me/ HTTP/1.1" 200 109
+WARNING 2025-04-24 10:37:53,869 log 8956 30100 Not Found: /ws/document/
+WARNING 2025-04-24 10:37:53,871 basehttp 8956 30100 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:37:53,881 basehttp 8956 24344 "GET /api/workspace/ HTTP/1.1" 200 1308
+INFO 2025-04-24 10:37:57,912 basehttp 8956 24344 "GET /api/content/d3620593-9645-4b32-8d86-babcd7d79016/ HTTP/1.1" 200 1520
+INFO 2025-04-24 10:38:10,646 basehttp 8956 24344 "POST /api/scrape-website/ HTTP/1.1" 200 649
+INFO 2025-04-24 10:38:14,120 basehttp 8956 24344 "OPTIONS /api/content/bf40e60c-5e2b-4844-ba01-464d2081df60/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:14,127 basehttp 8956 24344 "GET /api/content/bf40e60c-5e2b-4844-ba01-464d2081df60/ HTTP/1.1" 200 1131
+INFO 2025-04-24 10:38:16,098 basehttp 8956 24344 "OPTIONS /api/content/8246bd88-a266-4acf-986a-409e26c259e2/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:16,106 basehttp 8956 24344 "GET /api/content/8246bd88-a266-4acf-986a-409e26c259e2/ HTTP/1.1" 200 935
+INFO 2025-04-24 10:38:18,120 basehttp 8956 24344 "OPTIONS /api/content/3a93e5b3-2839-4880-bfc3-1cd3fc587565/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:18,125 basehttp 8956 24344 "GET /api/content/3a93e5b3-2839-4880-bfc3-1cd3fc587565/ HTTP/1.1" 200 750
+INFO 2025-04-24 10:38:19,690 basehttp 8956 24344 "OPTIONS /api/content/52650daa-62ab-496d-873b-287ee1c4d1fe/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:19,698 basehttp 8956 24344 "GET /api/content/52650daa-62ab-496d-873b-287ee1c4d1fe/ HTTP/1.1" 200 798
+INFO 2025-04-24 10:38:21,049 basehttp 8956 24344 "OPTIONS /api/content/c43d35c8-963d-4817-ac03-b36c1a4fe373/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:21,057 basehttp 8956 24344 "GET /api/content/c43d35c8-963d-4817-ac03-b36c1a4fe373/ HTTP/1.1" 200 3235
+INFO 2025-04-24 10:38:22,035 basehttp 8956 24344 "OPTIONS /api/content/ce91855f-c463-416c-a046-e13c00ae3162/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:22,043 basehttp 8956 24344 "GET /api/content/ce91855f-c463-416c-a046-e13c00ae3162/ HTTP/1.1" 200 1104
+WARNING 2025-04-24 10:38:28,667 log 8956 27424 Not Found: /ws/document/
+INFO 2025-04-24 10:38:28,667 basehttp 8956 24344 "GET /api/user/me/ HTTP/1.1" 200 109
+WARNING 2025-04-24 10:38:28,667 basehttp 8956 27424 "GET /ws/document/ HTTP/1.1" 404 2508
+WARNING 2025-04-24 10:38:28,700 log 8956 20364 Not Found: /ws/document/
+WARNING 2025-04-24 10:38:28,701 basehttp 8956 20364 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:38:28,706 basehttp 8956 24344 "GET /api/workspace/ HTTP/1.1" 200 1988
+INFO 2025-04-24 10:38:31,990 basehttp 8956 24344 "OPTIONS /api/content/5ff8fd3e-601d-465d-b94f-a7a65db25e79/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:38:32,005 basehttp 8956 24344 "GET /api/content/5ff8fd3e-601d-465d-b94f-a7a65db25e79/ HTTP/1.1" 200 40917
+INFO 2025-04-24 10:38:39,442 basehttp 8956 24344 "GET /api/content/bf40e60c-5e2b-4844-ba01-464d2081df60/ HTTP/1.1" 200 1131
+INFO 2025-04-24 10:38:41,108 basehttp 8956 24344 "GET /api/content/8246bd88-a266-4acf-986a-409e26c259e2/ HTTP/1.1" 200 935
+INFO 2025-04-24 10:38:45,134 basehttp 8956 24344 "GET /api/content/3a93e5b3-2839-4880-bfc3-1cd3fc587565/ HTTP/1.1" 200 750
+INFO 2025-04-24 10:38:46,540 basehttp 8956 24344 "GET /api/content/52650daa-62ab-496d-873b-287ee1c4d1fe/ HTTP/1.1" 200 798
+INFO 2025-04-24 10:38:47,847 basehttp 8956 24344 "GET /api/content/c43d35c8-963d-4817-ac03-b36c1a4fe373/ HTTP/1.1" 200 3235
+INFO 2025-04-24 10:39:05,393 basehttp 8956 24344 "GET /api/content/ce91855f-c463-416c-a046-e13c00ae3162/ HTTP/1.1" 200 1104
+INFO 2025-04-24 10:39:10,795 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:10,954 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:11,720 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:12,430 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:12,602 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:12,846 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:13,036 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:13,289 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:13,837 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:14,523 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:17,508 basehttp 8956 24344 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:39:28,261 views 8956 24344 Invitation email sent to rajabhuyan75@gmail.com
+INFO 2025-04-24 10:39:28,263 basehttp 8956 24344 "POST /api/invite-member/ HTTP/1.1" 201 166
+INFO 2025-04-24 10:39:58,063 basehttp 8956 30656 "OPTIONS /api/login/ HTTP/1.1" 200 0
+WARNING 2025-04-24 10:39:59,215 log 8956 30656 Unauthorized: /api/login/
+WARNING 2025-04-24 10:39:59,216 basehttp 8956 30656 "POST /api/login/ HTTP/1.1" 401 63
+WARNING 2025-04-24 10:39:59,221 log 8956 30656 Bad Request: /api/login/
+WARNING 2025-04-24 10:39:59,222 basehttp 8956 30656 "POST /api/login/ HTTP/1.1" 400 37
+WARNING 2025-04-24 10:40:27,092 log 8956 30656 Unauthorized: /api/login/
+WARNING 2025-04-24 10:40:27,093 basehttp 8956 30656 "POST /api/login/ HTTP/1.1" 401 63
+WARNING 2025-04-24 10:40:27,101 log 8956 30656 Bad Request: /api/login/
+WARNING 2025-04-24 10:40:27,102 basehttp 8956 30656 "POST /api/login/ HTTP/1.1" 400 37
+INFO 2025-04-24 10:41:09,586 basehttp 8956 30656 "POST /api/login/ HTTP/1.1" 200 604
+INFO 2025-04-24 10:41:09,717 basehttp 8956 30656 "OPTIONS /api/workspace/ HTTP/1.1" 200 0
+WARNING 2025-04-24 10:41:09,729 log 8956 28032 Not Found: /ws/document/
+INFO 2025-04-24 10:41:09,729 basehttp 8956 30656 "OPTIONS /api/workspace/ HTTP/1.1" 200 0
+WARNING 2025-04-24 10:41:09,730 basehttp 8956 28032 "GET /ws/document/ HTTP/1.1" 404 2508
+WARNING 2025-04-24 10:41:09,761 log 8956 4768 Not Found: /ws/document/
+WARNING 2025-04-24 10:41:09,762 basehttp 8956 4768 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:41:09,816 basehttp 8956 27228 "GET /api/workspace/ HTTP/1.1" 200 2390
+INFO 2025-04-24 10:41:09,829 basehttp 8956 27228 "GET /api/workspace/ HTTP/1.1" 200 2390
+INFO 2025-04-24 10:41:40,032 views 8956 24344 Invitation email sent to milanbhuyan7@gmail.com
+INFO 2025-04-24 10:41:40,033 basehttp 8956 24344 "POST /api/invite-member/ HTTP/1.1" 201 172
+INFO 2025-04-24 10:41:49,721 basehttp 8956 24344 "GET /api/content/d3620593-9645-4b32-8d86-babcd7d79016/ HTTP/1.1" 200 1520
+INFO 2025-04-24 10:42:12,448 basehttp 8956 27228 "OPTIONS /api/content/cfb984da-0440-4563-ad3f-e0f0af2d52b8/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:42:12,458 basehttp 8956 27228 "GET /api/content/cfb984da-0440-4563-ad3f-e0f0af2d52b8/ HTTP/1.1" 200 1519
+INFO 2025-04-24 10:42:15,259 basehttp 8956 27228 "OPTIONS /api/content/df808ed3-b65c-4bcf-81d5-4749c57a87d1/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:42:15,265 basehttp 8956 27228 "GET /api/content/df808ed3-b65c-4bcf-81d5-4749c57a87d1/ HTTP/1.1" 200 688
+INFO 2025-04-24 10:42:19,559 basehttp 8956 27228 "OPTIONS /api/content/6f9d7946-6a84-4b1c-9684-05fa69f3b046/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:42:19,564 basehttp 8956 27228 "GET /api/content/6f9d7946-6a84-4b1c-9684-05fa69f3b046/ HTTP/1.1" 200 801
+INFO 2025-04-24 10:42:31,777 basehttp 8956 27228 "OPTIONS /api/save-content/ HTTP/1.1" 200 0
+INFO 2025-04-24 10:42:31,792 basehttp 8956 27228 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:42:31,976 basehttp 8956 27228 "POST /api/save-content/ HTTP/1.1" 200 40
+INFO 2025-04-24 10:42:32,050 basehttp 8956 27228 "POST /api/save-content/ HTTP/1.1" 200 40
+WARNING 2025-04-24 10:48:04,307 log 8956 23812 Not Found: /ws/document/
+WARNING 2025-04-24 10:48:04,308 basehttp 8956 23812 "GET /ws/document/ HTTP/1.1" 404 2508
+WARNING 2025-04-24 10:48:04,341 log 8956 28852 Not Found: /ws/document/
+WARNING 2025-04-24 10:48:04,342 basehttp 8956 28852 "GET /ws/document/ HTTP/1.1" 404 2508
+INFO 2025-04-24 10:53:41,116 autoreload 8956 24380 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 10:53:42,642 autoreload 24716 29708 Watching for file changes with StatReloader
+INFO 2025-04-24 10:55:21,316 autoreload 24716 29708 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 10:55:22,219 autoreload 10360 29712 Watching for file changes with StatReloader
+INFO 2025-04-24 10:55:39,154 autoreload 14308 20204 Watching for file changes with StatReloader
+INFO 2025-04-24 10:57:47,674 autoreload 14308 20204 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\models.py changed, reloading.
+INFO 2025-04-24 10:57:48,505 autoreload 2748 20804 Watching for file changes with StatReloader
+INFO 2025-04-24 10:58:18,456 autoreload 2748 20804 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\models.py changed, reloading.
+INFO 2025-04-24 10:58:19,296 autoreload 4372 25660 Watching for file changes with StatReloader
+INFO 2025-04-24 11:01:30,415 autoreload 25216 24040 Watching for file changes with StatReloader
+INFO 2025-04-24 11:02:03,676 autoreload 25216 24040 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 11:02:04,447 autoreload 24764 5556 Watching for file changes with StatReloader
+INFO 2025-04-24 11:02:37,705 autoreload 24764 5556 C:\Users\lenovo\Downloads\doccollab1\backend\doccollab\workspace\views.py changed, reloading.
+INFO 2025-04-24 11:02:38,505 autoreload 29020 12280 Watching for file changes with StatReloader
